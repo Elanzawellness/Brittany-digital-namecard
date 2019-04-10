@@ -1,13 +1,13 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Brittany;Hawkins;;;
-FN: Brittany  Hawkins 
+N:Catherine;Hendy;;;
+FN: Catherine  Hendy 
 ORG:ELANZA Wellness;
 TITLE:Co-founder & Director
-EMAIL;type=INTERNET;type=WORK;type=pref:brittany@elanzawellness.com
-TEL;type=WORK;type=VOICE:+27 79 098 7124
-item1.ADR;type=WORK;type=pref:;;San Francisco\nCalifornia\
+EMAIL;type=INTERNET;type=WORK;type=pref:catherine@elanzawellness.com
+TEL;type=WORK;type=VOICE:+44 (0) 7843 563 847
+item1.ADR;type=WORK;type=pref:;;London\nUK\
 item1.X-ABADR:sg
 item2.URL;type=pref:www.elanzawellness.com
 item2.X-ABLabel:_$!<HomePage>!$_
